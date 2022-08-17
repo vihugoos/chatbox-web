@@ -1,16 +1,16 @@
 <div id="top"> </div>
 
-[![Feedback Widget](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://feedback-widget-web-rosy.vercel.app/)
+[![Feedback Widget](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://chatbox-web.vercel.app/)
 
 <!---- PROJECT LOGO ----> 
 <div align="center">
 
   <h2 align="center"> 
-    Feedback Widget - Web Version 
+    Chatbox - Web Version 
   </h2>
   
   <p align="center">
-    A feedback widget to capture feedback from your app's users, developed with React and Tailwindcss. <br/>
+    An application to chat in real time, developed with React and Socket.io Client. <br/>
     Explore <a href="https://reactjs.org/docs/getting-started.html">React</a> or <a href="https://tailwindcss.com/docs/installation">Tailwindcss</a> docs &#187; <br/> <br/>
     <a href="https://feedback-widget-web-rosy.vercel.app/"> View Demo Project </a> &nbsp;•&nbsp;
     <a href="https://github.com/vihugoos/feedback-widget-web/issues"> Report Bug </a> &nbsp;•&nbsp;
