@@ -47,7 +47,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="" align="center" height="500" alt="Project Home Page">
+  <img src="https://user-images.githubusercontent.com/44311634/185255651-991dc9d9-cdde-418e-901a-923065701a47.gif" align="center" height="640" alt="Project Home Page">
   <br/> <br/> 
 </div>
 A platform to chat in real time with other people, using GitHub for authentication and identification. 
