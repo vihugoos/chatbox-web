@@ -10,11 +10,11 @@
   </h2>
   
   <p align="center">
-    An application to chat in real time, developed with React and Socket.io Client. <br/>
-    Explore <a href="https://reactjs.org/docs/getting-started.html">React</a> or <a href="https://tailwindcss.com/docs/installation">Tailwindcss</a> docs &#187; <br/> <br/>
-    <a href="https://feedback-widget-web-rosy.vercel.app/"> View Demo Project </a> &nbsp;•&nbsp;
-    <a href="https://github.com/vihugoos/feedback-widget-web/issues"> Report Bug </a> &nbsp;•&nbsp;
-    <a href="https://github.com/vihugoos/feedback-widget-web/issues"> Request Feature </a>
+    An application to chat in real time with other people, developed with React and Socket.IO Client. <br/>
+    Explore <a href="https://reactjs.org/docs/getting-started.html">React</a> or <a href="https://socket.io/docs/v4/">Socket.IO</a> docs &#187; <br/> <br/>
+    <a href="https://chatbox-web.vercel.app/"> View Demo Project </a> &nbsp;•&nbsp;
+    <a href="https://github.com/vihugoos/chatbox-web/issues"> Report Bug </a> &nbsp;•&nbsp;
+    <a href="https://github.com/vihugoos/chatbox-web/issues"> Request Feature </a>
   </p>
 </div>
 
