@@ -47,10 +47,10 @@
 ## About The Project
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/44311634/178625239-ae338828-e08f-44c3-8059-9fff97e856c8.gif" align="center" height="500" alt="Project Home Page">
+  <img src="" align="center" height="500" alt="Project Home Page">
   <br/> <br/> 
 </div>
-A widget where customers can send feedback to the app admin about bugs, ideas, etc. The feedback is saved in the database and an email with complete information about the feedback is sent to the administrator.
+A platform to chat in real time with other people, using GitHub for authentication and identification. 
 
 
 ### Built With 
