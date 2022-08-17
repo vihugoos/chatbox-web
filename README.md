@@ -60,6 +60,10 @@ A platform to chat in real time with other people, using GitHub for authenticati
     <a href="https://nodejs.org/en/"> 
       <img align="center" alt="Icon-Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
     </a> &nbsp;
+    <!-- Icon Yarn --> 
+    <a href="https://yarnpkg.com/"> 
+      <img align="center" alt="Icon-Yarn" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"> 
+    </a> &nbsp;
     <!-- Icon TypeScript --> 
     <a href="https://www.typescriptlang.org/"> 
       <img align="center" alt="Icon-TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
