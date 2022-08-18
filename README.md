@@ -126,7 +126,7 @@ First of all, we need to ensure that the <strong>server is running</strong>, to 
 
 With the installation complete, we can start the project.
 
-* Starting the project 
+* Starting the project, after access [`localhost:3000`](http://localhost:3000) from your browser
    ```bash
    yarn run dev  
    ```
