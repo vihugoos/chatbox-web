@@ -33,7 +33,7 @@ export const AuthContext = createContext({} as AuthContextData)
 export function AuthProvider(props: AuthProvider) {
     const [ user, setUser ] = useState<User | null>(null)
 
-    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=91e3c9778fc8c5f6673e`
+    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=${import.meta.env.VITE_OAUTH_APP_CLIENT_ID}`
 
     // Capture the code in the url and then hide it from the user 
     useEffect(() => {
