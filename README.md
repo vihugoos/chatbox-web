@@ -117,7 +117,7 @@ First of all, we need to ensure that the <strong>server is running</strong>, to 
    ```
 3. Create an `.env.local` file with the server API URL 
    ```cmd
-   echo "VITE_SERVER_API_URL='http://localhost:4000'" > .env.local 
+   echo "VITE_SERVER_API_URL='http://localhost:4000'" >> .env.local 
    ``` 
  
 
